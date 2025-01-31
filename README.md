@@ -40,7 +40,7 @@ Start the development server:
 
 npm start
 
-Open your browser and visit http://localhost:3000
+Open your browser and visit http://localhost:5174/
 
 Smart Contract
 
